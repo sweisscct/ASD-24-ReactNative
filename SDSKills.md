@@ -1,0 +1,40 @@
+# Software Development Skills
+
+
+- Typing
+- Thinking
+    - Finding Solutions
+    - Designing
+        - Architecture
+    - Researching
+    - Logic
+    - Debugging
+    - Learning
+        - From mistakes  
+- Handle Stress/Frustration
+    - Complaining
+    - Accepting failures
+- Initiative
+    - Try new things
+- Exposure to ideas and technologies, techniques
+- Project management
+    - Commitment
+    - Time managemnet
+    - Planning
+    - Good communication
+        - Naming
+        - Commenting
+- Software tool ecosystems
+    - Git/ VC
+    - IDE
+- Code tools
+    - Loops
+    - Conditional statements
+    - Functions/methods
+    - Data structures eg arrays
+    - Paradigms
+        - OOP
+        - Imperative
+        - Procedural
+        - Declarative
+        - Functional
