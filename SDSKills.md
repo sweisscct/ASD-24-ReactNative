@@ -6,7 +6,8 @@
     - Finding Solutions
     - Designing
         - Architecture
-    - Researching
+    - Researching (Trying to find existing information)
+        - Giving key words/phrases
     - Logic
     - Debugging
     - Learning
