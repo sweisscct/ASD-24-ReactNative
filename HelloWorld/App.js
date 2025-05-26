@@ -52,7 +52,12 @@ export default function App() {
 }
 
 // Winner calculation function
-function calculateWinner(squares) {
+/*
+  Input -> Array(9) of null or String
+  Output -> null or String
+  Jest
+*/
+export function calculateWinner(squares) {
   const lines = [
     [0, 1, 2],
     [3, 4, 5],

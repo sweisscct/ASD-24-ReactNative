@@ -1,0 +1,2 @@
+import { calculateWinner} from './App';
+
